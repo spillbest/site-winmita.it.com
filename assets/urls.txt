@@ -1,0 +1,63 @@
+=== СЛОТЫ → assets/games/ ===
+https://casino-winnita.com/uploads/games/400e254_web-1657180655.svg
+https://casino-winnita.com/uploads/2026-hit-slot_web-1-1773665058.jpg
+https://casino-winnita.com/uploads/games/spinomenal_story_of_zeus_web.png
+https://casino-winnita.com/uploads/crv-9084_400x254_06.svg
+https://casino-winnita.com/uploads/games/jadecoins_web.png
+https://casino-winnita.com/uploads/crowncoins400h254.jpg
+https://casino-winnita.com/uploads/crv-9084_400x254_08.svg
+https://casino-winnita.com/uploads/crv-9084_400x254_02.svg
+https://casino-winnita.com/uploads/chicken-coin_web-1.jpg
+https://casino-winnita.com/uploads/games/master-joker-400-254_.jpg
+https://casino-winnita.com/uploads/3witchpots_web.png
+https://casino-winnita.com/uploads/3-royal-dracos_web-1.jpg
+https://casino-winnita.com/uploads/games/sweet-bonanza-1686827248.jpg
+https://casino-winnita.com/uploads/crv-9084_400x254_05.svg
+https://casino-winnita.com/uploads/games/bookoframagic-400-254.jpg
+https://casino-winnita.com/uploads/games/400h254-1778072462.png
+https://casino-winnita.com/uploads/games/2022-hit-slot_400h254.png
+https://casino-winnita.com/uploads/400x254.jpg
+https://casino-winnita.com/uploads/games/gateofolympus-1686825779.jpg
+https://casino-winnita.com/uploads/games/bookofradeluxe6-400-254-1656068095.jpg
+https://casino-winnita.com/uploads/games/big-bass-splash-1686831159.jpg
+https://casino-winnita.com/uploads/games/elven_princesses.jpg
+https://casino-winnita.com/uploads/games/burning-chilli-x_7sl_web_400x254.png
+https://casino-winnita.com/uploads/games/400x254-1678877585.jpg
+https://casino-winnita.com/uploads/games/hottripleseven-400-254-1656331232.jpg
+https://casino-winnita.com/uploads/games/endorphina_burning_coins_40_web.jpg
+https://casino-winnita.com/uploads/games/joker-s-jewels-1686828127.jpg
+https://casino-winnita.com/uploads/games/dolphinspearldeluxe-400-254.jpg
+https://casino-winnita.com/uploads/games/360x270-1774022795.webp
+https://casino-winnita.com/uploads/games/luckyladyscharmdeluxe-400-254-1657631186.jpg
+https://casino-winnita.com/uploads/games/7sl_400x254_web-1685612833.jpg
+https://casino-winnita.com/uploads/games/novomatic_lord_of_the_ocean_web.jpg
+https://casino-winnita.com/uploads/crv-9084_400x254_07.svg
+https://casino-winnita.com/uploads/dynasty_coin_10000_hold_the_spin_web-1776949134.jpg
+https://casino-winnita.com/uploads/games/gold-party-400-254_.jpg
+https://casino-winnita.com/uploads/games/hauntedhouse_400x254.jpg
+https://casino-winnita.com/uploads/ultra-hot-sevens-400x254-1.jpg
+https://casino-winnita.com/uploads/mystic-pot-treasures-400x254-1.jpg
+https://casino-winnita.com/uploads/games/royalfruits5_400-254-1774022859.jpg
+https://casino-winnita.com/uploads/games/untitled-2-1697188144.png
+https://casino-winnita.com/uploads/games/400x254-1678883207.jpg
+https://casino-winnita.com/uploads/games/eggandrooster_web.jpg
+https://casino-winnita.com/uploads/games/novomatic_5_super_clover_web.jpg
+https://casino-winnita.com/uploads/games/icemania-400-254.jpg
+https://casino-winnita.com/uploads/games/7sl_400x254_web-1685865893.jpg
+https://casino-winnita.com/uploads/games/footballtap_web-1763381030-1774458800.jpg
+https://casino-winnita.com/uploads/gambleman_web.jpg
+https://casino-winnita.com/uploads/games/9coinsgrandplatinumedition_web-1781273653.png
+https://casino-winnita.com/uploads/games/princess-suki-400h264.png
+https://casino-winnita.com/uploads/games/fruit-million-400h254-min.png
+https://casino-winnita.com/uploads/games/book-of-the-fallen-1686827500.jpg
+https://casino-winnita.com/uploads/games/triple-chili-400-254.jpg
+
+=== ПРОЧЕЕ (баннер/персонаж/платёжки) → по комментам в fetch_assets ===
+https://casino-winnita.com/uploads/slide_img/2800x491-eur-gg.webp  →  assets/banner/winnita-3000.webp
+https://casino-winnita.com/uploads/bonuse_img/400x400_-2.webp  →  assets/bonus/character.webp
+https://casino-winnita.com/uploads/footer_payment_methods/payments-mastercard2-1722871691.svg  →  assets/footer/pay/mastercard.svg
+https://casino-winnita.com/uploads/footer_payment_methods/visa-1722933733.svg  →  assets/footer/pay/visa.svg
+https://casino-winnita.com/uploads/footer_payment_methods/all-payments-1-1722933901.svg  →  assets/footer/pay/pay1.svg
+https://casino-winnita.com/uploads/footer_payment_methods/all-payments-2-1722933910.svg  →  assets/footer/pay/pay2.svg
+https://casino-winnita.com/uploads/footer_payment_methods/all-payments-3-1722933915.svg  →  assets/footer/pay/pay3.svg
+https://casino-winnita.com/uploads/footer_payment_methods/all-payments-6-1722934031.svg  →  assets/footer/pay/pay4.svg
